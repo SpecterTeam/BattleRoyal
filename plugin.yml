@@ -1,0 +1,5 @@
+name: BattleRoyal
+version: 1.0-Fris
+author: Fris
+main: fris\battleroyal\BattleRoyal
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12, 3.0.0-ALPHA13]
